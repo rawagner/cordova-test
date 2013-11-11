@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0"
+	id="org.jboss.tool.cordova" version="2.0.0">
+	<name>org.jboss.tool.cordova</name>
+
+	<description>
+		A sample Apache Cordova application that responds to the deviceready
+		event.
+	</description>
+
+	<author href="http://aerogear.org/" email="aerogear-dev@lists.jboss.org">
+		JBoss by Red Hat
+	</author>
+
+	<content src="index.html" />
+
+	<access origin="*" />
+	<preference name="fullscreen" value="true" />
+	<preference name="webviewbounce" value="true" />
+</widget>
